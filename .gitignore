@@ -6,10 +6,8 @@
 !/readme.md
 !/requirements.txt
 !/LICENSE
+!/trial_ensemble.mp3
 
-# Ignore specific files
-*.wav
-*.mp3
 *.mid
 *.midi
 *.xml
