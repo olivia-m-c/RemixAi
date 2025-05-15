@@ -1,0 +1,21 @@
+# Ignore everything
+/*
+!/.gitignore
+!/remixAi.py
+!/drumtest_1_1.py
+!/readme.md
+!/requirements.txt
+!/LICENSE
+
+# Ignore specific files
+*.wav
+*.mp3
+*.mid
+*.midi
+*.xml
+separated_wavs/
+modified_midi/
+combined_midi/
+__pycache__/
+*.pyc
+.DS_Store

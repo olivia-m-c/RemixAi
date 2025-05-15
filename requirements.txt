@@ -1,0 +1,12 @@
+
+torch
+torchaudio
+demucs
+librosa
+pretty_midi
+basic_pitch
+music21
+scipy
+matplotlib
+midi2audio
+numpy
